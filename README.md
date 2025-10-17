@@ -1,4 +1,4 @@
-# Identifing a gas by measuring the speed of sound in the gas using an ultrasonic distance sensor
+# Identifing a gas by measuring the speed of sound in the gas using an inexpensive ultrasonic distance sensor
 
 In hospitals, patient injuries and deaths have been caused by incorrectly connected medical gas lines (for example, a carbon dioxide tank accidentially connected to a line that should contain oxygen).  Chemical sensors exist that can distinguish differet gases, but often these sensors are expensive which limits their widespread use.
 
