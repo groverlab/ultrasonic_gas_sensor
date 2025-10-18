@@ -1,4 +1,4 @@
-# Identifying a gas by measuring the speed of sound in the gas using an inexpensive ultrasonic distance sensor
+# Identifying a gas using an ultrasonic distance sensor
 
 ![](ultrasonic_gas_sensor_photo.jpeg)
 
