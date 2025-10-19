@@ -12,4 +12,4 @@ In our device, the sound wave is confined inside a segment of tubing with a know
 
 ## Circuit
 
-![](ultrasonic-gas-sensor-circuit.jpeg)
+![](ultrasonic-gas-sensor-circuit.png)
